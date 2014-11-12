@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>16C5FD02-6C6F-44D7-A464-1FC96B7D1C39</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Note &amp; plan</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DDFA789B04B4E58BEADE296BFBB5BA2BE1C00E55</key>
+		<string>https://github.com/pnvd11/Note-plan..git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SemiFinal copy 94/Note &amp; plan.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DDFA789B04B4E58BEADE296BFBB5BA2BE1C00E55</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pnvd11/Note-plan..git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DDFA789B04B4E58BEADE296BFBB5BA2BE1C00E55</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DDFA789B04B4E58BEADE296BFBB5BA2BE1C00E55</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Note-plan.</string>
+		</dict>
+	</array>
+</dict>
+</plist>
